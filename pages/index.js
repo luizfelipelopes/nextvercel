@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div key={} className={styles.container}>
+    <div key={1} className={styles.container}>
       <h1>Next App</h1>
     </div>
   )
